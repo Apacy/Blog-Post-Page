@@ -47,4 +47,4 @@ blog-post-page/
 Edit the content inside `<main>` in `index.html` to write your own blog post. Replace `mountains-at-sunrise.png` with your own image and update the `alt` and `<figcaption>` text accordingly.
 
 ## Live Demo
-
+[View Project](https://apacy.github.io/Blog-Post-Page/)
